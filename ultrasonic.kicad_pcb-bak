@@ -1310,7 +1310,7 @@
   (gr_text "Capstone AOV 2020" (at 104.394 106.426 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Eech H. ft. Anoop" (at 106.045 106.426 90) (layer F.SilkS)
+  (gr_text "Eech Hsiao ft. Anoop" (at 106.045 106.426 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_line (start 103.124 119.761) (end 103.124 93.218) (layer Edge.Cuts) (width 0.05) (tstamp 5E3BD7FC))
